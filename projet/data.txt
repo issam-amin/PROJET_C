@@ -1,0 +1,20 @@
+CNE    		NOM		  PRENOM		  VILLE	  	  NUMERO DE TELE	DATE INSCRIPTION
+
+Y7391826450	Fatima		Al-Mansouri		Casablanca	  +212612345678	  	  15/04/2019
+P5028319746	Malik		Ibrahim			Rabat		  +212612345679	  	  22/07/2018
+Q6842951073	Leila		Hassan			Meknes		  +212612345680	  	  10/03/2020
+X1760932845	Aisha		Nizar			Tanger		  +212612345682	  	  18/09/2019
+M8103275469	Kareem		Hamdi			Agadir		  +212612345683	  	  30/06/2018
+A4956832170	Rana		Jamal			Meknès		  +212612345684	  	  12/01/2020
+Z3648709215	Amir		Abadi			Oujda		  +212612345685	  	  03/08/2017
+B9275614380	Noor		Al-Farsi		Kenitra		  +212612345686	  	  25/05/2019
+L2754189063	Zayd		Ali			Tetouan		  +212612345687	  	  08/12/2018
+H6301948752	Layla		Tariq			Essaouira	  +212612345688	  	  14/02/2017
+F1235698704	Samir		Saad			Chefchaouen	  +212612345689	  	  20/09/2020
+R9084521763	Yasmin		Abdel-Rahman		Casablanca	  +212612345690	  	  07/06/2018
+U6745218309	Karim		Amine			Marrakech	  +212612345691	  	  11/03/2019
+V3897061245	Noura		Mustafa			Agadir		  +212612345692	  	  29/10/2017
+G3189072546	Bilal		Sharif			Casablanca	  +212612345693	  	  16/07/2018
+N12345678	Faiz		Oussama			Essaouira	  +212612157200		  02/01/2024
+hhhshhh	ddddd		ddd			dd	  d	 	  5/1/2024
+kks	pwpw		wwlw			w	  w	 	  5/1/2024

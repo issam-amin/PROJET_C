@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1704480387 source:c:\users\viet\desktop\mini projet c\gestion des adherants\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	"INTERFACE.h"
+	"MENUS.h"
+	"GestionAdherant.h"
+	"GestionEmprunt.h"
+	"Structures.h"
+
+1704141332 c:\users\viet\desktop\mini projet c\gestion des adherants\interface.h
+
+1704480387 c:\users\viet\desktop\mini projet c\gestion des adherants\menus.h
+	"GestionEmprunt.h"
+	"GestionLivres.h"
+
+1704222236 c:\users\viet\desktop\mini projet c\gestion des adherants\gestionadherant.h
+	"Structures.h"
+
+1702320916 c:\users\viet\desktop\mini projet c\gestion des adherants\structures.h
+
+1704472562 c:\users\viet\desktop\mini projet c\gestion des adherants\gestionemprunt.h
+	"Structures.h"
+	"INTERFACE.h"
+
+1704479163 c:\users\viet\desktop\mini projet c\gestion des adherants\gestionlivres.h
+	"structures.h"
+
+1702321946 c:\users\viet\desktop\mini projet c\gestion des adherants\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+

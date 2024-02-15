@@ -1,0 +1,26 @@
+ISBN            Titre                                           Auteur                         Maison d'édition     Edition
+9780061120084   Artificial_Intelligence:_A_Modern_Approach      Stuart_Russell,Peter_Norvig    Pearson              3
+9780451524935   Machine_Learning_Yearning                       Andrew_Ng                      O'Reilly_Media       1
+9780743273565   Data_Science_for_Business                       Foster_Provost,Tom_Fawcett     O'Reilly_Media       1
+9780747532743   Python_for_Data_Analysis                        Wes_McKinney                   O'Reilly_Media       2
+9780241950425   Data_Science_from_Scratch                       Joel_Grus                      O'Reilly_Media       1
+1234567890      Building_Machine_Learning_Powered_Applications  Emmanuel_Ameisen               O'Reilly_Media       1
+2345678901      Artificial_Intelligence:                        Mackworth                      University_Press     1
+3456789012      Artificial_Intelligence:_A_New_Synthesis        Nils_J._Nilsson                Morgan_Kaufmann      1
+4567890123      Data_Science_for_Dummies                        Lillian_Pierson                For_Dummies          1
+5678901234      Python_Machine_Learning                         Sebastian_Raschka              Packt_Publishing     3
+6789012345      Algorithms_that_Make_Sense_of_Data              Peter_Flach                    Wiley                1
+7890123456      Python_Data_Science_Handbook                    Jake_VanderPlas                O'Reilly_Media       1
+8901234567      AI:_A_Guide_for_Thinking_Humans                 Melanie_Mitchell               Giroux               1
+9012345678      Data_Science_in_Python                          Frank_Kane                     Frank_Kane           1
+123456789       Machine_Learning_Yearning                       Andrew_Ng                      Deeplearning.ai      1
+9876543210      Data_Science_for_Beginners                      Valliappa_Lakshmanan           Martin_Görner        1
+8765432109      Python_Machine_Learning                         Sebastian_Raschka              Packt_Publishing     2
+7654321098      Machine_Learning:_The_Complete_Guide            Gómez-Rodríguez                Springer             1
+6543210987      Data_Science_and_Big_Data_Analytics             EMC_Education_Services         Wiley                1
+5432109876      Machine_Learning_for_Dummies                    Massaron                       For_Dummies          2
+3210987654      Artificial_Intelligence:_A_New_Synthesis        Nils_J._Nilsson                Morgan_Kaufmann      1
+2109876543      Python_Data_Science_Handbook                    Jake_VanderPlas                O'Reilly_Media       2
+1098765432      Machine_Learning_Yearning                       Andrew_Ng                      Deeplearning.ai      1
+9876543210      Data_Science_for_Business                       Foster_Provost,Tom_Fawcett     O'Reilly_Media       1
+9876543210      Data_Science_for_Business                       Foster_Provost,Tom_Fawcett     O'Reilly_Media       1
